@@ -22,12 +22,14 @@ NGINX (pronounced “engine-x”) is a high performance web server that is widel
 - Install nginx on server (EC2) instance
 - Allow access from HTTP with default port and SSH (Secure Shell) to securely connect to and control a remote server over the internet.
 - Verified nginx installed or not by accessing server ip using HTTP over internet.
-- <img width="1861" height="694" alt="Screenshot 2026-05-01 000919" src="https://github.com/user-attachments/assets/7be31ac1-2584-42cd-8c4e-cb0f375834af" />
+<img width="1861" height="694" alt="Screenshot 2026-05-01 000919" src="https://github.com/user-attachments/assets/7be31ac1-2584-42cd-8c4e-cb0f375834af" />
+<br/><br/>
 - Updates index.html inside /usr/share/html/index.html with new index.html
 - Modified the NGINX configuration to set the root directory to /usr/share/nginx/html, enabling the server to serve static web content from this location.
-- <img width="1226" height="205" alt="Screenshot 2026-05-01 001952" src="https://github.com/user-attachments/assets/a98d516d-a807-470b-abdc-d743e2a48cf4" />
+<img width="1226" height="205" alt="Screenshot 2026-05-01 001952" src="https://github.com/user-attachments/assets/a98d516d-a807-470b-abdc-d743e2a48cf4" />
+<br/><br/>
 - Reload nginx service and restart nginx , And access server public ip with default port
 - And here is result
-- <img width="1865" height="967" alt="Screenshot 2026-05-01 002041" src="https://github.com/user-attachments/assets/62d031eb-a3f6-4666-9c89-9c55cc25fb37" />
+ <img width="1865" height="967" alt="Screenshot 2026-05-01 002041" src="https://github.com/user-attachments/assets/62d031eb-a3f6-4666-9c89-9c55cc25fb37" />
 
 
