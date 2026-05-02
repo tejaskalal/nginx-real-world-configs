@@ -15,3 +15,14 @@ NGINX (pronounced “engine-x”) is a high performance web server that is widel
 - Understand basic security practices (headers, request handling)
 - Gain hands-on experience with real-world deployment scenarios
 - Build a strong foundation in DevOps and server management concepts
+
+### Project Overview
+
+### Static Web Hosting Configuration with NGINX
+- Install nginx on server (EC2) instance
+- Allow access from HTTP with default port and SSH (Secure Shell) to securely connect to and control a remote server over the internet.
+- Verified nginx installed or not by accessing server ip using HTTP over internet.
+<img width="1861" height="694" alt="Screenshot 2026-05-01 000919" src="https://github.com/user-attachments/assets/7be31ac1-2584-42cd-8c4e-cb0f375834af" />
+- Updates index.html inside /usr/share/html/index.html with new index.html
+- 
+- 
